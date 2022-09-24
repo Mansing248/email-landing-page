@@ -33,7 +33,13 @@ body{background-color: #212529;}
         margin-right: auto;
 	
 }
+.space {
+    padding: 250px 0px 0px 0px;
+
+}
 .social { 
-    padding: 5px 50px 5px 50px; 
+    padding: 5px 0px 0px 0px; 
     text-align: center;
+    background-color: white;
+    
 }
