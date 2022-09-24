@@ -1,6 +1,23 @@
 h1 {
 	text-align: center;
 	color: white;}
+span::before {
+            content: "DevOps";
+            animation: animate infinite 3s;
+            padding-left: 10px;
+            color: #40C4FF;
+        }
+  
+        @keyframes animate {
+
+            50% {
+                content: "Cloud";
+            }
+  
+            75% {
+                content: "Linux";
+            }
+        }
 body{background-color: #212529;}
 img {
 	width: 200px;
