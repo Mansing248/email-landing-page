@@ -6,6 +6,7 @@ span::before {
             animation: animate infinite 3s;
             padding-left: 10px;
             color: #40C4FF;
+            text-align: center;
         }
   
         @keyframes animate {
