@@ -22,7 +22,11 @@ span::before {
                 content: "Linux";
             }
         }
-body{background-color: #212529;}
+body{
+    background-image: url("images/trail6.jpg");
+    background-color: #212529;
+    background-size: 100%;
+    }
 .center {
 	width: 200px;
 	height: 200px;
